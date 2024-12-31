@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DataSorter
+comment1.params=data\ stringIndex
+comment1.target=void\ sortByString(java.util.List,\ int)
+comment2.params=list1\ list2
+comment2.target=int\ compare(java.util.List,\ java.util.List)
+comment3.params=data\ intIndex
+comment3.target=void\ sortByInt(java.util.List,\ int)
+comment4.params=list1\ list2
+comment4.target=int\ compare(java.util.List,\ java.util.List)
+numComments=5

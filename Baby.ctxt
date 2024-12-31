@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Baby
+comment1.params=int0\ string1\ int1\ string2\ int2
+comment1.target=Baby(int,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getInt0()
+comment3.params=
+comment3.target=java.lang.String\ getString1()
+comment4.params=
+comment4.target=int\ getInt1()
+comment5.params=
+comment5.target=java.lang.String\ getString2()
+comment6.params=
+comment6.target=int\ getInt2()
+numComments=7
