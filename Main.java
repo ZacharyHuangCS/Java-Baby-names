@@ -6,7 +6,7 @@ public class Main
     public static void main(){
             for (int i = 0; i < 28; i++) {
             int years = 1990 + i;
-            String path = "C:/Users/zacha/Documents/School/Spring 2024/Java/CSV Files for midterm/names" + years + ".csv";
+            String path = "C:/Java-Baby-names/CSV Files for midterm/names" + years + ".csv";
 
             MyFileReader fileReader = new MyFileReader(path);
             List<Baby> babies = fileReader.readAndRecord();
